@@ -1,1 +1,8 @@
 /* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
+body {
+    font-family: 'Lora', 'Noto Serif JP', serif;
+}
+
+pre, code {
+    font-family: Hack, 'M PLUS Rounded 1c', sans-serif;
+}
